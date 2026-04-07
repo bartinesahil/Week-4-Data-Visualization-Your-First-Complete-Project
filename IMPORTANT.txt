@@ -1,0 +1,16 @@
+data-analysis-project/
+│
+├── data/
+│   └── expenses.csv
+│
+├── visualizations/
+│   ├── bar_chart.png
+│   ├── pie_chart.png
+│   └── line_chart.png
+│
+├── report/
+│   └── report.md
+│
+├── main.py
+├── requirements.txt
+└── README.md
